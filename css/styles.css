@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;600;900&display=swap');
+
+body {
+    background-image: url("../photos/Background.png");
+    background-size: 400px;
+    overflow:scroll;
+    margin:0;
+    
+}
+
+/* Header */
+a{
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: #5594f2;
+    color: white;
+}
+
+.div1 {
+    overflow: auto;
+}
+
+#logo {
+    float:left;
+    width: 50px;
+    margin: 20px;
+}
+
+#header-title{
+    display:inline;
+    position:relative;
+    top: 27px;
+    margin-top: 20px;
+}
+
+#navigation {
+    text-align: right;
+    font-size: 20px;
+}
+ 
+#navigation1 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/* Button */
+#button{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.up-icon{
+    font-size: 40px;
+    transition: 0.5s;
+    color: black;
+}
+
+.up-icon:hover{
+    font-size: 50px;
+}
+
+/* Part1 Website Title */
+.title1{
+    text-align: center;
+}
+
+#title2{
+    font-family: 'Cairo', sans-serif;
+    font-size: 100px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+#title3{
+    margin-top: 0px;
+}
+
+/* Part2 Paragraphs */
+#aboutus{
+    margin-bottom: 75px;
+}
+
+.div2 {
+    overflow: auto;
+    padding: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+#fish {
+    float:left;
+    margin-right: 20px;
+    border-radius: 30px;
+    width: 250px;
+}
+
+.div3 {
+    overflow: auto;
+    padding: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+#toothpaste {
+    float:right;
+    margin-left: 20px;
+    border-radius: 30px;
+    width: 250px;
+}
+
+.div4 {
+    overflow: auto;
+    padding: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+#covid {
+    float:left;
+    margin-right: 20px;
+    border-radius: 30px;
+    width: 250px;
+}
+
+#justify {
+    text-align: justify;
+}
+
+/* Part3 Figures */
+.section1 {
+    text-align: center;
+}
+
+.titles {
+    display:inline-block;
+}
+
+#images{
+    width:250px;
+}
+
+/* Part3 Paragraph + author quote */
+#paragraph1 {
+    text-align: justify;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#author-quote {
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#author {
+    text-align: right;
+    margin-right: 100px;
+}
+
+/* Footer */
+footer {
+    background-color: #5594f2;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+#footer-nav {
+    font-size: 17px;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+}
+
+#paragraph4 {
+    margin-bottom: 0px;
+}
+
+/* index2 page edits */
+#products-page {
+    font-family: 'Cairo', sans-serif;
+    text-align:center;
+    font-size: 125px;
+    margin-bottom: 412px;
+}
